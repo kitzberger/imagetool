@@ -1,5 +1,3 @@
-#!/bin/env python3
-
 import cv2
 import sys
 import numpy as np
